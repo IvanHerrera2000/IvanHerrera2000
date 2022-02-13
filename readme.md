@@ -1,6 +1,6 @@
 <img src="https://github.com/BryanCPineda/BryanCPineda/blob/main/svg.svg" atl="hello world"/>
 <h1 align="center">Hola 👋, soy Iván Herrera</h1>
-<h3 align="center">Soy argentino de 21 años. Actualmente estoy enfocado en el desarrollo web, frontend mas precisamente. En el año 2021, redescubrí mi pasión por la programación asi que estoy estudiando una Tecnicatura Universitaria en Programación, y tambien me encuento cursando un bootcamp de fullstack</h3>
+<h3 align="center">Soy argentino de 21 años. Actualmente estoy enfocado en el desarrollo web, fullstack. En el año 2021, redescubrí mi pasión por la programación asi que estoy estudiando una Tecnicatura Universitaria en Programación, y tambien me encuento cursando un bootcamp de fullstack</h3>
 
 ```javascript
 const aboutMe = {
@@ -18,7 +18,7 @@ const aboutMe = {
    }
 };
 ```
-- 🌱 Estoy aprendiendo a profundidad React y UX UI, para convertirme en un excelente desarrollador Frontend.
+- 🌱 Estoy aprendiendo a profundidad React y Python, para convertirme en un excelente desarrollador Fullstack.
 
 - 📫 Contáctame via mail **ivanalejandroherrera2000@gmail.com**
 
