@@ -12,7 +12,7 @@ const aboutMe = {
          css: ["Bootstrap", "Material UI", "Sass"]
       },
       backEnd: {
-         js: ["Node", "Express"]
+         js: ["Node", "Express", "Java"]
       },
       databases: ["PostgreSQL"],
    }
