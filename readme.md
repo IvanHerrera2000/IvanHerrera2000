@@ -1,6 +1,8 @@
 <img src="https://github.com/BryanCPineda/BryanCPineda/blob/main/svg.svg" atl="hello world"/>
 <h1 align="center">Hola 👋, soy Iván Herrera</h1>
-<h3 align="center">Soy argentino de 21 años. Enfocado en el desarrollo web, fullstack. En el año 2021, redescubrí mi pasión por la programación asi que estoy estudiando una Tecnicatura Universitaria en Programación, y tambien me encuento cursando un bootcamp de fullstack</h3>
+<h3 align="center">Full Stack Developer, en busca de de nuevos retos donde pueda crecer de forma personal como laboral.
+En constante aprendizaje acerca de desarrollo web. Tengo conocimientos en Javascript | React | Express | NodeJs | Sequelize | PostgreSql | Html | Css.
+Actualmente estoy estudiando Tecnicatura Universitaria en Programacion en la UTN Frre (Universidad Tecnologica Nacional Regional Resistencia) </h3>
 
 ```javascript
 const aboutMe = {
