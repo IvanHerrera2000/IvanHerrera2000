@@ -20,6 +20,8 @@ const aboutMe = {
    }
 };
 ```
+- 💼 Ve mi <a href="https://portfolio-ivanherrera2000.vercel.app/">Portfolio</a>
+
 - 🌱 Estoy aprendiendo a profundidad React y MongoDB, para convertirme en un excelente desarrollador Fullstack.
 
 - 📫 Contáctame via mail **ivanalejandroherrera2000@gmail.com**
